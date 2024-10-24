@@ -2,6 +2,8 @@
 name = "my_pest"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Basic parser that uses pest crate and code example from its documentation"
 
 [dependencies]
 anyhow = "1.0.91"
